@@ -5,6 +5,7 @@ ruby '2.6.3'
 gem 'rack-timeout'
 gem 'rubocop-performance'
 gem 'rubocop-rails'
+gem "rack-canonical-host"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.2'
